@@ -1,0 +1,25 @@
+section{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+section:nth-child(1){
+    background: pink;
+    color: black;
+}
+section:nth-child(2){
+    background: rgb(219, 198, 201);
+    color: black;
+}
+section:nth-child(3){
+    background: rgb(125, 134, 190);
+    color: black;
+}
+section:nth-child(4){
+    background: rgb(212, 37, 125);
+    color: black;
+}
+section:nth-child(5){
+    background: rgb(89, 206, 137);
+    color: black;
+}
