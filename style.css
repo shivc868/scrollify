@@ -2,6 +2,7 @@ section{
     width: 100vw;
     height: 100vh;
     text-align: center;
+    text-transform:uppercase;
 }
 section:nth-child(1){
     background: pink;
@@ -20,6 +21,38 @@ section:nth-child(4){
     color: black;
 }
 section:nth-child(5){
+    background: rgb(89, 206, 137);
+    color: black;
+}
+section:nth-child(6){
+     background: rgb(125, 134, 190);
+    color: black;
+}
+section:nth-child(7){
+   background: rgb(219, 198, 201);
+    color: black;
+}
+section:nth-child(5){
+    background: rgb(89, 206, 137);
+    color: black;
+}
+section:nth-child(11){
+    background: rgb(89, 206, 137);
+    color: black;
+}
+section:nth-child(8){
+    background: rgb(89, 206, 137);
+    color: black;
+}
+section:nth-child(9){
+    background: rgb(89, 206, 137);
+    color: black;
+}
+section:nth-child(12){
+    background: rgb(89, 206, 137);
+    color: black;
+}
+section:nth-child(13){
     background: rgb(89, 206, 137);
     color: black;
 }
